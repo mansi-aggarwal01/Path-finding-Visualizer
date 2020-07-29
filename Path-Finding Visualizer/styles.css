@@ -1,0 +1,26 @@
+body{ background-color:Silver;
+	margin:0 auto;
+	
+}
+	
+	h1,h2,h3 {
+color:Maroon;
+}
+h4 {
+color:Navy;
+}
+a:link,a:visited{
+	font-weight:bold;
+}
+a:hover{
+color:black;
+}
+
+
+aside{
+	width:480px;
+	float:right;
+	background-color:tan;
+	font-weight:bold;
+
+}
